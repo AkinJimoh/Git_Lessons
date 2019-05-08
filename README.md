@@ -1,2 +1,1 @@
 # Demo Restaurant Recipes for Tutorial Purposes
-Lets have a drink
